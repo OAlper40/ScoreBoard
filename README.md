@@ -29,7 +29,8 @@ You can run the app without installing Python or any dependencies.
 3. Komut satırında proje klasörüne gidin.  
  Open your terminal and navigate to the project folder.
 
-4. Aşağıdaki komutla uygulamayı çalıştırın:  
- Run the application with this command:
-#python main.py 
+4. Aşağıdaki komutla uygulamayı çalıştırın: python main.py
+
+   Run the application with this command: python main.py 
+
 

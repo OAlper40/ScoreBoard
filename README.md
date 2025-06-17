@@ -31,5 +31,5 @@ You can run the app without installing Python or any dependencies.
 
 4. Aşağıdaki komutla uygulamayı çalıştırın:  
  Run the application with this command:
- python main.py
+#python main.py 
 
